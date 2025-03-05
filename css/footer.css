@@ -27,17 +27,6 @@ body
     padding-top: 30px;
     font-size: 12px;
 }
-#credit 
-{
-    width: 100%;
-    margin: auto;
-    padding: 20px 0;
-    text-align: center;
-    background-color: rgb(29, 29, 29);
-    color: white;
-    font-size: 11px;
-    letter-spacing: 1px;
-}
 
 #credit a
 {
